@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 50px;
+}
+#banner{
+    background-image: url('bg-2.png');
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: bottom;
+}
+
+.col-md-7{
+     background-image: url('bg-1.png');
+     background-repeat: no-repeat;
+}
+.col-md-5{
+   padding-left: 170px;
+}
+
+.matha a{
+    text-decoration: none;
+    color: orange;
+}
+.card-body p{
+    padding-left: 20px;
+}
+.card-body h5{
+   padding-left: 120px;
+}
+.card-body button{
+    margin-left: 100px;
+}
+.card{
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: orange;
+}
